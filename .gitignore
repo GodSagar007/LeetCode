@@ -1,0 +1,16 @@
+# Bytecode and caches
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+
+# Pytest cache
+pytest_cache/
+
+# VS Code settings
+.vscode/
+
+# macOS and Windows system files
+.DS_Store
+Thumbs.db

@@ -1,4 +1,4 @@
-# Course Schedule II
+## Course Schedule II
 
 ## Problem Link
 

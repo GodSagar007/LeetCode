@@ -1,13 +1,13 @@
 # Rotting Oranges
 
 ## Problem Link 
-https://leetcode.com/problems/lru-cache/description/
+https://leetcode.com/problems/rotting-oranges/
 
 ## Difficulty
 Medium
 
 ## Complexity Analysis
-- Time Complexity: O(1) (Get/Put Operations)
-- Space Complexity: Not Applicable as we're designing a class
+- Time Complexity: O(M.N)
+- Space Complexity: O(M.N)
 
 

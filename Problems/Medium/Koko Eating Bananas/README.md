@@ -1,4 +1,4 @@
-# Reorganize String
+# KoKo Eating Bananas
 
 ## Problem Link
 

@@ -1,4 +1,4 @@
-# Reorganize String
+# Search In a Rotated Sorted Array
 
 ## Problem Link
 

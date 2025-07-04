@@ -1,4 +1,4 @@
-# Reorganize String
+# House Robber
 
 ## Problem Link
 

@@ -1,4 +1,4 @@
-# Reorganize String
+# Kth Largest Element
 
 ## Problem Link
 

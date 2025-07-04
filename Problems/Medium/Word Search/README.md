@@ -1,4 +1,4 @@
-## Course Schedule II
+## Word Search
 
 ## Problem Link
 

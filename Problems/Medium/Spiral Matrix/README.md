@@ -1,4 +1,4 @@
-# Reorganize String
+# Spiral Matrix
 
 ## Problem Link
 

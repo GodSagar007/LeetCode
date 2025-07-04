@@ -1,4 +1,4 @@
-# Reorganize String
+# Coin Change
 
 ## Problem Link
 

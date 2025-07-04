@@ -1,4 +1,4 @@
-# Reorganize String
+# Insert Delete GetRandom O(1)
 
 ## Problem Link
 

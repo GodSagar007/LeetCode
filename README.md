@@ -1,6 +1,6 @@
 # 🧠 LeetCode Practice – Getting Better One Problem at a Time
 
-This repository is a collection of my personal solutions to problems from [LeetCode](https://leetcode.com/), organized by topic and difficulty. I'm using this space to track my progress, learn new patterns, and sharpen my problem-solving skills.
+This repository is a collection of my personal solutions to problems from [LeetCode](https://leetcode.com/), organized by difficulty. I'm using this space to track my progress, learn new patterns, and sharpen my problem-solving skills.
 
 ## 📌 Why This Repo?
 
